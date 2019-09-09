@@ -1,5 +1,5 @@
 Accounts Receivables Data Demonstration
-If you are having issues loading the Jupyter Notebook use this copy the url into the file viewer here: https://nbviewer.jupyter.org/
+If you are having issues loading the Jupyter Notebook use this url: https://nbviewer.jupyter.org/github/hunterknighton/AccountsReceivable/blob/master/Accounts%20Receivable.ipynb
 
 Model to predict whether a client will be late on a payement.
 Using the IBM Accounts Recievable dataset we can generate some interesting insights with a simple dataset.
